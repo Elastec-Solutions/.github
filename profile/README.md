@@ -5,4 +5,5 @@ At Elastec Solutions, we don't just build software; we craft transformative expe
 From cutting-edge web & mobile applications to robust enterprise software, our agile approach ensures we stay ahead of industry trends and technologies. We prioritize collaboration, transparency, and innovation, working closely with our clients to turn their visions into reality.
 
 Join us on a journey where creativity meets technology, and let’s shape the future together. 
+
 With Elastec Solutions, your digital dreams are just a code away!
